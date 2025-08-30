@@ -5,3 +5,5 @@ This is a second line of content.
 This edit comes from the clones repo.
 
 This is a feature-branch change.
+
+New feature notes!
